@@ -1,0 +1,155 @@
+#nav-logo {
+    width: 15%;
+}
+
+/* modal get started*/
+#nav-Logo {
+    width: 10%;
+}
+
+#logo-text {
+    color: whitesmoke;
+}
+
+#logo_text {
+    color: green;
+}
+
+#flex-one {
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+#grid-one {
+    width: 20%;
+}
+
+#grid-two {
+    width: 20%;
+}
+
+#grid-three {
+    width: 35%;
+}
+
+#flex-two {
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+#flex-three {
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+footer #foot-para {
+    position: relative;
+}
+
+footer #arrow-up {
+    float: right;
+}
+
+
+@media (max-width:760px) {
+    #nav-btn {
+        display: block;
+        margin-top: 0.5rem;
+        height: 10%;
+        width: 15%;
+    }
+
+    #nav-img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 58%;
+    }
+
+    #grid-one {
+        width: 20%;
+    }
+    
+    #grid-two {
+        width: 20%;
+    }
+    
+    #grid-three {
+        width: 35%;
+    }
+
+    #sectionimg {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 58%;
+    }
+
+    #sectionimg2 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 58%;
+    }
+
+    nav {
+        width: 100%;
+        position: fixed;
+        box-shadow: 0 1rem 1rem whitesmoke;
+        z-index: 3;
+    }
+
+    /* -----contact.html -------*/
+    #map {
+        margin-top: 2rem;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 58%;
+    }
+
+    #list-group {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 58%;
+    }
+
+    #contact-footer {
+        margin-top: 0;
+    }
+}
+
+
+/*------------- service.html -------------*/
+
+/* footer section */
+#service-footer {
+    margin-top: 15rem;
+}
+
+
+
+/*------------- contact.html -------------*/
+
+/* section one */
+#contain {
+    justify-content: space-between;
+    align-items: center;
+    justify-items: center;
+}
+
+#map {
+    margin-top: 6rem;
+}
+
+#contact-footer {
+    margin-top: 15rem;
+}
